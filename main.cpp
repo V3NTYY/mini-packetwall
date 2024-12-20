@@ -76,6 +76,7 @@ static void mainMenu() {
         case 4:
             // Exit
             printMenu = false;
+            clearConsole();
             break;
         default:
             // Reprint menu
