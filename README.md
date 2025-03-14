@@ -1,4 +1,4 @@
-### mini-packetwall (on-hiatus until semester in finished)
+### mini-packetwall (on-hiatus until semester is finished)
 
 A C++ Console Desktop application that will parse, process and discard packets that doesn't adhere to user-defined rules -- a mini-firewall.
 
